@@ -32,8 +32,8 @@ The following waveforms demonstrate the multiplier-accumulator (MAC) functionali
 *Figure 1: Timing diagram showing 48-bit accumulation and pre-adder results.*
 
 ### Synthesis Report (Optional)
-![Synthesis Results](Vivado/synthesis_design.png)
-*Figure 2: Resource utilization and timing slack from Vivado/Quartus.*
+![Synthesis Results](Vivado/Synthesis_design.png)
+*Figure 2: Resource utilization and timing slack from Vivado*
 
 ---
 
@@ -43,8 +43,6 @@ The following waveforms demonstrate the multiplier-accumulator (MAC) functionali
 * **Simulator:** Icarus Verilog, ModelSim, or Vivado.
 * **Waveform Viewer:** GTKWave or Vivado Logic Analyzer.
 
-### Installation & Execution
-1. **Clone the repo:**
-   ```bash
+
    git clone [https://github.com/yourusername/DSP48A1-Verilog.git](https://github.com/yourusername/DSP48A1-Verilog.git)
    cd DSP48A1-Verilog
